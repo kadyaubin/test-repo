@@ -11,3 +11,8 @@ VCS Goal:
 Help maintain a detailed history of a project as well as the ability to work on different versions of it.
 THe detailed history help to see the progress of the project over time.
 
+Terminology: 
+-VCS or SCM => Source Code Manager
+-commit: save the state of the project in Git
+-repository: directory of the project in Git. It is made up of commits.
+-SHA ID number for each commit (SECURE HASH ALGORITHM). 40 character string. 
