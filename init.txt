@@ -16,3 +16,4 @@ Terminology:
 -commit: save the state of the project in Git
 -repository: directory of the project in Git. It is made up of commits.
 -SHA ID number for each commit (SECURE HASH ALGORITHM). 40 character string. 
+-branch : line of development created that diverges from the main line of development.
