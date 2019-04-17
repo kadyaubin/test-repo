@@ -5,3 +5,9 @@ VCS can be divided into two categories:
 
 -centralized model: all users connect to a central, master repo.
 -distributed model: each user has the entire repo on their computer.
+
+
+VCS Goal: 
+Help maintain a detailed history of a project as well as the ability to work on different versions of it.
+THe detailed history help to see the progress of the project over time.
+
